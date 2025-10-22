@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Mortis Dev Blog</title>
+        <link>https://morti12.github.io/posts/</link>
+        <description>All Posts | Mortis Dev Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 20:51:31 &#43;0200</lastBuildDate><atom:link href="https://morti12.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Hello World</title>
+    <link>https://morti12.github.io/posts/hello-world/</link>
+    <pubDate>Tue, 09 Sep 2025 20:51:31 &#43;0200</pubDate>
+    <author>Morti</author>
+    <guid>https://morti12.github.io/posts/hello-world/</guid>
+    <description><![CDATA[<p>Every good program starts with a lovely <code>Hello World</code>. So this dev blog should also start with it. On the other hand, it is also a chance for me to get to know <a href="https://gohugo.io/" target="_blank" rel="noopener noreffer ">Hugo</a> and I also want to introduce myself. Two birds with one stone 🤘</p>
+<h2 id="introduction">Introduction</h2>
+<p>Hi everyone! My real name is Martin, but everyone calls me Morti. I life in the heart of Europe in Austria. I&rsquo;m a software developer and I earn my bread with it 😋</p>]]></description>
+</item>
+</channel>
+</rss>
