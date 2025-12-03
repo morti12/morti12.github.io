@@ -2,8 +2,9 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>https://morti12.github.io/</loc><lastmod>2025-11-25T21:58:51&#43;01:00</lastmod></url><url>
+            <loc>https://morti12.github.io/posts/mount-onedrive-over-rclone-on-startup-over-systemd/</loc><lastmod>2025-11-25T21:58:51&#43;01:00</lastmod></url><url>
+            <loc>https://morti12.github.io/posts/</loc><lastmod>2025-11-25T21:58:51&#43;01:00</lastmod></url><url>
             <loc>https://morti12.github.io/posts/hello-world/</loc><lastmod>2025-09-09T20:51:31&#43;02:00</lastmod></url><url>
-            <loc>https://morti12.github.io/</loc><lastmod>2025-09-09T20:51:31&#43;02:00</lastmod></url><url>
-            <loc>https://morti12.github.io/posts/</loc><lastmod>2025-09-09T20:51:31&#43;02:00</lastmod></url><url>
             <loc>https://morti12.github.io/categories/</loc></url><url>
             <loc>https://morti12.github.io/tags/</loc></url></urlset>

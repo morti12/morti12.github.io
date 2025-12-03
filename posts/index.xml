@@ -3,7 +3,15 @@
         <title>All Posts - Mortis Dev Blog</title>
         <link>https://morti12.github.io/posts/</link>
         <description>All Posts | Mortis Dev Blog</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 20:51:31 &#43;0200</lastBuildDate><atom:link href="https://morti12.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 25 Nov 2025 21:58:51 &#43;0100</lastBuildDate><atom:link href="https://morti12.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Mounting OneDrive on Linux for a Native Feel</title>
+    <link>https://morti12.github.io/posts/mount-onedrive-over-rclone-on-startup-over-systemd/</link>
+    <pubDate>Tue, 25 Nov 2025 21:58:51 &#43;0100</pubDate>
+    <author>Morti</author>
+    <guid>https://morti12.github.io/posts/mount-onedrive-over-rclone-on-startup-over-systemd/</guid>
+    <description><![CDATA[<p>I recently switched to Linux full-time and one of the first hurdles was getting my cloud storage to feel native. I use OneDrive for a lot of stuff, and I wanted it to just be there in my file manager when I boot up my machine, Yes I know, on one hand you say good bye to Windows and on the other hand you are still using the services. I use OneDrive because my whole family needs Office and also a cloud storage, and I have to admit, that the family package is cheap 🤑. After a bit of tinkering, I found a pretty sweet setup using <code>rclone</code> and <code>systemd</code>. Let me show you how I did it! 🤓</p>]]></description>
+</item>
+<item>
     <title>Hello World</title>
     <link>https://morti12.github.io/posts/hello-world/</link>
     <pubDate>Tue, 09 Sep 2025 20:51:31 &#43;0200</pubDate>
